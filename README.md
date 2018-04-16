@@ -1,12 +1,12 @@
 # INFO6205_317
 Genetic Algorithm: Draw a picture according to the given picture
 
-Yuhan Wang   NUID:001837473
-Yumeng Wang   NUID: 001828064
+Yuhan Wang:  NUID:001837473
+Yumeng Wang:   NUID: 001828064
 Group number: #317
 
 
-Problem
+Problem:
 We use  genetic algorithm to draw a picture according to the given picture.  
 
 Design logic
